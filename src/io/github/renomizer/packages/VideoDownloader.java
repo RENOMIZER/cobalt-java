@@ -1,4 +1,4 @@
-package org.renomizer.packages;
+package io.github.renomizer.packages;
 
 import java.io.File;
 import java.io.FileOutputStream;

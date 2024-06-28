@@ -9,4 +9,4 @@ This package is an API wrapper for online video download service known as Cobalt
 
 1. Download `.jar` file from [Releases](https://github.com/RENOMIZER/cobalt-java/releases/latest) page.
 2. Place it in `lib` folder of your Java project.
-3. Import package using `import org.renomizer.VideoDownloader.*`
+3. Import package using `import io.github.renomizer.packages.VideoDownloader.*`
